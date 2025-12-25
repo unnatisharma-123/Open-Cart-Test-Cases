@@ -13,4 +13,4 @@ Platform Tested: OpenCart Demo Site
 Testing Type: Functional, UI/UX, and Regression Testing.
 
 
-Format: Documentation is provided in .docs formats.
+Format: Documentation is provided in .xlxs formats.
